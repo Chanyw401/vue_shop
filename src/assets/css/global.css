@@ -1,0 +1,27 @@
+html,body,#app{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-width: 1366px;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+}
+.el-card{
+    box-shadow: 0 1px 1px rgba(255,255,255,0.5);
+}
+.el-table{
+    margin-top: 12px;
+}
+.el-pagination{
+    margin-top: 15px;
+}
+.el-tag{
+    margin: 10px;
+}
+.el-alert{
+    margin: 15px 0;
+}
+.ql-editor{
+    min-height: 450px;
+}
